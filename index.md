@@ -1,10 +1,5 @@
-## Navigation
-
-- [Home](index.md)
-- [Research](research.md)
-- [Awards](awards.md)
-- [Teaching](teaching.md)
-
+---
+layout: default
 ---
 
 ## Welcome to my academic website!
