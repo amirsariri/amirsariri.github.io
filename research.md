@@ -8,6 +8,10 @@ layout: page
 
 ### The Economics of Advice: Evidence from Startup Mentoring
 
+![Economics of Advice Figure 1](/images/economics-advice-1.png)
+
+![Economics of Advice Figure 2](/images/economics-advice-2.png)
+
 **Files:** [Main Paper](/papers/sariri-economics-advice.pdf) | [Supplemental Material](/papers/sariri-economics-advice-supplement.pdf)
 
 _Management Science (2025)_
@@ -20,6 +24,14 @@ _Management Science (2025)_
 
 w/ Kevin Bryan and Mitchell Hoffman
 
+![Information Frictions Figure 1](/images/information-frictions-1.png)
+
+![Information Frictions Figure 2](/images/information-frictions-2.jpg)
+
+![Information Frictions Figure 3](/images/information-frictions-3.png)
+
+![Information Frictions Figure 4](/images/information-frictions-4.png)
+
 **Files:** [Main Paper](/papers/sariri-information-frictions.pdf) | [AEA RCT Registry](/papers/sariri-aea-rct-registry.pdf) | [Appendices](/papers/sariri-information-frictions-appendices.pdf) | [RCT Screenshots](/papers/sariri-rct-screenshots.pdf) | [Supplemental Material](/papers/sariri-information-frictions-supplement.pdf)
 
 _American Economic Journal (2025)_
@@ -30,6 +42,8 @@ _American Economic Journal (2025)_
 
 ### How does Industry Affiliation of Academic Scientists Affect the Rate and Direction of Research?
 
+![Industry Affiliation Figure](/images/industry-affiliation.png)
+
 (manuscript ready for conference presentation)
 
 **ABSTRACT:** The implications of academic collaborations with industry have long been the nexus of contentious debate. The prevailing concern is that industry causes research to lose its fundamental depth and become commercially driven. This paper presents evidence that these concerns are misplaced for areas of research that have commercial value--that is, the specific domains for which these concerns are raised. The empirical analysis uses large-scale, manually improved bibliometric data from artificial intelligence research. For identification, I use the unexpected and significant success of the neural network techniques revealed at the ImageNet 2012 benchmark competition, which sharply increased the industry's demand for AI scientists, but more so for scientists with higher expertise in the breakthrough field. While industry affiliation significantly increases the usefulness of research, it does not diminish its novelty. In addition, industry affiliation raises both the publication and the quality of science produced by academic scientists. Results are consistent with the explanation that, at least in the medium term, academics in short supply can negotiate higher academic freedom while utilizing commercial resources for their research.
@@ -39,6 +53,8 @@ _American Economic Journal (2025)_
 ---
 
 ### Learning vs. Doing: The Effect of Business Uncertainty on Entrepreneurial Activities
+
+![Learning vs. Doing Figure](/images/learning-doing.png)
 
 (preparing manuscript for conference presentations)
 
