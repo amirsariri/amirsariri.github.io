@@ -46,8 +46,8 @@ layout: page
 <div class="research-project">
   <div class="research-images">
     <img src="/images/industry-affiliation-1.jpg" alt="Industry Affiliation DiD Figure">
-    <img src="/images/industry-affiliation-2.jpg" alt="Out in the Open - AI Research">
-    <img src="/images/industry-affiliation-3.jpg" alt="Deep-learning Research">
+    <img src="/images/industry-affiliation-2.png" alt="Out in the Open - AI Research">
+    <img src="/images/industry-affiliation-3.png" alt="Deep-learning Research">
   </div>
   <div class="research-content">
     <h3>How does Industry Affiliation of Academic Scientists Affect the Rate and Direction of Research?</h3>
@@ -64,7 +64,7 @@ layout: page
 
 <div class="research-project">
   <div class="research-images">
-    <img src="/images/learning-doing.png" alt="Learning vs. Doing Figure">
+    <img src="/images/learning-vs-doing.png" alt="Learning vs. Doing Figure">
   </div>
   <div class="research-content">
     <h3>Learning vs. Doing: The Effect of Business Uncertainty on Entrepreneurial Activities</h3>
@@ -77,11 +77,18 @@ layout: page
 
 ---
 
-### Activity Sequencing in Startups
+<div class="research-project">
+  <div class="research-images">
+    <img src="/images/activity-sequencing.png" alt="Activity Sequencing Figure">
+  </div>
+  <div class="research-content">
+    <h3>Activity Sequencing in Startups</h3>
 
-(preparing manuscript for conference presentations)
+    <p>(preparing manuscript for conference presentations)</p>
 
-**ABSTRACT:** In this paper, I investigate the sequence of startup activities over time to understand the mechanisms underlying the prioritization of activities in startups. I develop a novel typology of startup activities using a database of 371 early-stage, science-based startups. I show that entrepreneurs, particularly first-time founders, under-prioritize learning. Using Latent Markov Models I show that the sequence of activities in early-stage startups from learning to implementation of ideas and acquisition of resources increases startups' success in accessing capital.
+    <p><strong>ABSTRACT:</strong> In this paper, I investigate the sequence of startup activities over time to understand the mechanisms underlying the prioritization of activities in startups. I develop a novel typology of startup activities using a database of 371 early-stage, science-based startups. I show that entrepreneurs, particularly first-time founders, under-prioritize learning. Using Latent Markov Models I show that the sequence of activities in early-stage startups from learning to implementation of ideas and acquisition of resources increases startups' success in accessing capital.</p>
+  </div>
+</div>
 
 ---
 
