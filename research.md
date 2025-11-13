@@ -36,7 +36,7 @@ layout: page
 
     <p><strong>Files:</strong> <a href="/papers/sorting/bryan_hoffman_sariri_sorting_main.pdf">Main Paper</a> | <a href="/papers/sorting/bryan_hoffman_sariri_sorting_appendix.pdf">Appendices</a> | <a href="/papers/sorting/bryan_hoffman_sariri_sorting_rctscreenshots.pdf">RCT Screenshots</a> | <a href="https://www.socialscienceregistry.org/trials/4242">AEA RCT Registry</a></p>
 
-    <p><em>American Economic Journal (2025)</em></p>
+    <p><em>American Economic Journal (forthcoming)</em></p>
 
     <p><strong>ABSTRACT:</strong> Would workers apply to better firms if they were more informed about firm quality? Collaborating with 26 science-based startups, we create a custom job board and invite business school alumni to apply. The job board randomizes across applicants to show coarse expert ratings of all startups' science and/or business model quality. Making this information visible strongly reallocates applications toward better firms. This reallocation holds even when restricting to high-quality workers. The treatments operate in part by shifting worker beliefs about firms' right-tail outcomes. Despite these benefits, workers make post-treatment bets indicating highly overoptimistic beliefs about startup success, suggesting a problem of broader informational deficits.</p>
   </div>
@@ -46,7 +46,9 @@ layout: page
 
 <div class="research-project">
   <div class="research-images">
-    <img src="/images/industry-affiliation.png" alt="Industry Affiliation Figure">
+    <img src="/images/industry-affiliation-1.png" alt="Industry Affiliation DiD Figure">
+    <img src="/images/industry-affiliation-2.png" alt="Out in the Open - AI Research">
+    <img src="/images/industry-affiliation-3.png" alt="Deep-learning Research">
   </div>
   <div class="research-content">
     <h3>How does Industry Affiliation of Academic Scientists Affect the Rate and Direction of Research?</h3>
