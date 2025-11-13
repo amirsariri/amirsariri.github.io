@@ -13,11 +13,11 @@ layout: page
   </div>
   <div class="research-content">
     <h3>The Economics of Advice: Evidence from Startup Mentoring</h3>
-    
+
     **Files:** [Main Paper](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2024.05115) | [Supplemental Material](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2024.05115)
-    
+
     _Management Science (2025)_
-    
+
     **ABSTRACT:** This paper examines the role of advice in early firm development and growth, drawing on detailed data from a global program where angel investors and venture capitalists (VCs) mentored founders over several months. Leveraging variation in mentors' availability to support start-ups because of personal scheduling conflicts, I find that advice significantly improves start-ups' future market performance. To explore how advice shapes early firm development, I develop a novel typology of start-up activities, finding that a defining element of mentors' advice is to do less and learn more. Although angels and VCs are consistent in this message, they differ significantly in when they choose to advise start-ups in achieving their business objectives. Angels are more likely than VCs to help founders design and execute product market experiments, whereas VCs provide more mentoring support on business analysis and planning tasks. I find evidence consistent with the hypothesis that experimentation is a skill developed via learning-by-doing, and angels have a skill advantage in that domain because of having more operational experience.
   </div>
 </div>
@@ -33,13 +33,13 @@ layout: page
   </div>
   <div class="research-content">
     <h3>Information Frictions and Employee Sorting Between Startups</h3>
-    
+
     w/ Kevin Bryan and Mitchell Hoffman
-    
+
     **Files:** [Main Paper](https://www.amirsariri.com/s/Sorting_MainPaper.pdf) | [AEA RCT Registry](https://www.socialscienceregistry.org/trials/4242) | [Appendices](https://www.amirsariri.com/s/Online-Appendix.pdf) | [RCT Screenshots](https://www.amirsariri.com/s/RCT-Screenshots.pdf) | [Supplemental Material](https://www.amirsariri.com/s/Supplemental-Material.pdf)
-    
+
     _American Economic Journal (2025)_
-    
+
     **ABSTRACT:** Would workers apply to better firms if they were more informed about firm quality? Collaborating with 26 science-based startups, we create a custom job board and invite business school alumni to apply. The job board randomizes across applicants to show coarse expert ratings of all startups' science and/or business model quality. Making this information visible strongly reallocates applications toward better firms. This reallocation holds even when restricting to high-quality workers. The treatments operate in part by shifting worker beliefs about firms' right-tail outcomes. Despite these benefits, workers make post-treatment bets indicating highly overoptimistic beliefs about startup success, suggesting a problem of broader informational deficits.
   </div>
 </div>
@@ -52,11 +52,11 @@ layout: page
   </div>
   <div class="research-content">
     <h3>How does Industry Affiliation of Academic Scientists Affect the Rate and Direction of Research?</h3>
-    
+
     (manuscript ready for conference presentation)
-    
+
     **ABSTRACT:** The implications of academic collaborations with industry have long been the nexus of contentious debate. The prevailing concern is that industry causes research to lose its fundamental depth and become commercially driven. This paper presents evidence that these concerns are misplaced for areas of research that have commercial value--that is, the specific domains for which these concerns are raised. The empirical analysis uses large-scale, manually improved bibliometric data from artificial intelligence research. For identification, I use the unexpected and significant success of the neural network techniques revealed at the ImageNet 2012 benchmark competition, which sharply increased the industry's demand for AI scientists, but more so for scientists with higher expertise in the breakthrough field. While industry affiliation significantly increases the usefulness of research, it does not diminish its novelty. In addition, industry affiliation raises both the publication and the quality of science produced by academic scientists. Results are consistent with the explanation that, at least in the medium term, academics in short supply can negotiate higher academic freedom while utilizing commercial resources for their research.
-    
+
     **Media Mentions:** [The Economist - Million Dollar Babies](https://www.economist.com/special-report/2017/03/16/million-dollar-babies) | [The Economist - Battle of the Brains](https://www.economist.com/technology-quarterly/2017/01/12/battle-of-the-brains)
   </div>
 </div>
@@ -69,9 +69,9 @@ layout: page
   </div>
   <div class="research-content">
     <h3>Learning vs. Doing: The Effect of Business Uncertainty on Entrepreneurial Activities</h3>
-    
+
     (preparing manuscript for conference presentations)
-    
+
     **ABSTRACT:** Over the past decade, public and private startup mentorship programs have proliferated. Yet the empirical investigation of this phenomenon is scant. I examine advice in the context of change in startup activities. Resource-constrained entrepreneurs trade off prioritizing between learning about and evaluating their options versus implementing them. In a setting where mentorship advice regulates this trade-off, I show that, relative to mentors, entrepreneurs under-prioritize simple search and planning activities—a form of entrepreneurial learning that is broadly termed "analysis." Mentors' call for more learning through analysis is precisely at the expense of de-emphasizing the implementation of ideas in the short term. I show that this result is driven by mentors' perceived uncertainty of the startup's quality, where perceived uncertainty is proxied from mentors' expectation error dispersion and sentiment variation.
   </div>
 </div>
