@@ -51,7 +51,7 @@ layout: page
   <div class="research-content">
     <h3>Price Theory of Silicon Valley</h3>
 
-    <p>w/ John Horton</p>
+    <p>w/ <a href="https://john-joseph-horton.com/">John Horton</a></p>
 
     <p>(preparing manuscript for resubmission to journal)</p>
 
@@ -87,7 +87,7 @@ layout: page
   <div class="research-content">
     <h3>Activity Sequencing in Startups</h3>
 
-    <p>w/ Jorge Guzman</p>
+    <p>w/ <a href="https://www.jorgeguzman.co/">Jorge Guzman</a></p>
 
     <p>(preparing manuscript for conference presentations)</p>
 
@@ -102,9 +102,9 @@ layout: page
 
 [1] Scientific Decision-Making in Early Firm Formation and Growth, with <a href="https://www.agrawal.ca/">Ajay Agrawal</a>, Arnaldo Camuffo, Alfonso Gambardella, & Jakub Malachowski - data analysis
 
-[2] The Effect of Disagreement on Learning: Evidence from Business Mentoring, with Luca Gius - data analysis
+[2] The Effect of Disagreement on Learning: Evidence from Business Mentoring, with <a href="https://lucagius.github.io/">Luca Gius</a> - data analysis
 
-[3] The Effect of Noisy Learning on Startup Performance, with Joshua Gans, <a href="https://entrepreneurship.mit.edu/profile/erin-scott/">Erin Scott</a>, & <a href="http://www.scott-stern.com/">Scott Stern</a> - data analysis
+[3] The Effect of Noisy Learning on Startup Performance, with <a href="https://www.joshuagans.com/">Joshua Gans</a>, <a href="https://entrepreneurship.mit.edu/profile/erin-scott/">Erin Scott</a>, & <a href="http://www.scott-stern.com/">Scott Stern</a> - data analysis
 
 ---
 
@@ -132,9 +132,9 @@ As of 2024, there are 15 research projects that use these data by 18 scholars ac
 
 1. Amir Sariri; The Economics of Advice: Evidence from Startup Mentoring; Management Science, Forthcoming
 2. Álvaro Parra, Ralph A. Winter; <a href="https://www.sciencedirect.com/science/article/pii/S0929119922001341">Early-stage venture financing</a>; Journal of Corporate Finance, 2022
-3. Per Davidsson, Denis Gregoire, Maike Lex; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0883902621000409?via%3Dihub">Venture Idea Assessment (VIA): Development of a needed concept, measure, and research agenda</a>; Journal of Business Venturing, 2021
+3. Per Davidsson, Denis Gregoire, Maike Lex; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0883902621000409">Venture Idea Assessment (VIA): Development of a needed concept, measure, and research agenda</a>; Journal of Business Venturing, 2021
 
-This data collection project was a part of my doctoral dissertation research and was tremendously supported by guidance from my advisors <a href="https://www.agrawal.ca/">Ajay Agrawal</a>, Joshua Gans, and <a href="https://www.avigoldfarb.com/">Avi Goldfarb</a>. I also received funding and support from Creative Destruction Lab, the Strategic Innovation Fund of the Federal Government of Canada, and the RBC Royal Bank's Borealis AI Foundation.
+This data collection project was a part of my doctoral dissertation research and was tremendously supported by guidance from my advisors <a href="https://www.agrawal.ca/">Ajay Agrawal</a>, <a href="https://www.joshuagans.com/">Joshua Gans</a>, and <a href="https://www.avigoldfarb.com/">Avi Goldfarb</a>. I also received funding and support from Creative Destruction Lab, the Strategic Innovation Fund of the Federal Government of Canada, and the RBC Royal Bank's Borealis AI Foundation.
 
 ---
 
