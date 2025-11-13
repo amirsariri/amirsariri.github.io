@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Teaching Experience
+# Teaching
 
 <div class="teaching-item">
   <div class="teaching-course">Economics of Innovation, Purdue, Ph.D.</div>
