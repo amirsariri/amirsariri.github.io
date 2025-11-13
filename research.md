@@ -29,7 +29,7 @@ layout: page
   <div class="research-content">
     <h3>Information Frictions and Employee Sorting Between Startups</h3>
 
-    <p>w/ Kevin Bryan and Mitchell Hoffman</p>
+    <p>w/ <a href="http://www.kevinbryanecon.com/">Kevin Bryan</a> and <a href="https://sites.google.com/site/mhoffman2">Mitchell Hoffman</a></p>
 
     <p><strong>Files:</strong> <a href="/papers/sorting/bryan_hoffman_sariri_sorting_main.pdf">Main Paper</a> | <a href="/papers/sorting/bryan_hoffman_sariri_sorting_appendix.pdf">Appendices</a> | <a href="/papers/sorting/bryan_hoffman_sariri_sorting_rctscreenshots.pdf">RCT Screenshots</a> | <a href="https://www.socialscienceregistry.org/trials/4242">AEA RCT Registry</a></p>
 
@@ -100,14 +100,11 @@ layout: page
 
 # Work in Progress
 
-[1] Scientific Decision-Making in Early Firm Formation and Growth, with Ajay Agrawal, Arnaldo Camuffo,
-Alfonso Gambardella, & Jakub Malachowski - data analysis
+[1] Scientific Decision-Making in Early Firm Formation and Growth, with <a href="https://www.agrawal.ca/">Ajay Agrawal</a>, Arnaldo Camuffo, Alfonso Gambardella, & Jakub Malachowski - data analysis
 
-[2] The Effect of Disagreement on Learning: Evidence from Business Mentoring, with Luca Gius - data
-analysis
+[2] The Effect of Disagreement on Learning: Evidence from Business Mentoring, with Luca Gius - data analysis
 
-[3] The Effect of Noisy Learning on Startup Performance, with Joshua Gans, Erin Scott, & Scott Stern -
-data analysis
+[3] The Effect of Noisy Learning on Startup Performance, with Joshua Gans, <a href="https://entrepreneurship.mit.edu/profile/erin-scott/">Erin Scott</a>, & <a href="http://www.scott-stern.com/">Scott Stern</a> - data analysis
 
 ---
 
@@ -125,7 +122,7 @@ data analysis
 
 ### Database, Methodological Tools, and Research Opportunities: Creative Destruction Lab and Early-Stage Technology Ventures
 
-w/ Evgenia Gatov, Kyle Robinson, Sonia Sennik, Michael Vertolli, Avi Goldfarb
+w/ Evgenia Gatov, Kyle Robinson, Sonia Sennik, Michael Vertolli, <a href="https://www.avigoldfarb.com/">Avi Goldfarb</a>
 
 ![CDL Database](/images/cdl-database.jpg)
 
@@ -134,10 +131,10 @@ The early stages of startup formation remain one of the least understood aspects
 As of 2024, there are 15 research projects that use these data by 18 scholars across Purdue University, University of Toronto, Harvard University, University of Chicago, HEC Montreal, HEC Paris, Dalhousie University, University of British Columbia, University of Calgary, and MIT. The projects that are published so far are:
 
 1. Amir Sariri; The Economics of Advice: Evidence from Startup Mentoring; Management Science, Forthcoming
-2. Álvaro Parra, Ralph A. Winter; Early-stage venture financing; Journal of Corporate Finance, 2022
-3. Per Davidsson, Denis Gregoire, Maike Lex; Venture Idea Assessment (VIA): Development of a needed concept, measure, and research agenda; Journal of Business Venturing, 2021
+2. Álvaro Parra, Ralph A. Winter; <a href="https://www.sciencedirect.com/science/article/pii/S0929119922001341">Early-stage venture financing</a>; Journal of Corporate Finance, 2022
+3. Per Davidsson, Denis Gregoire, Maike Lex; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0883902621000409?via%3Dihub">Venture Idea Assessment (VIA): Development of a needed concept, measure, and research agenda</a>; Journal of Business Venturing, 2021
 
-This data collection project was a part of my doctoral dissertation research and was tremendously supported by guidance from my advisors Ajay Agrawal, Joshua Gans, and Avi Goldfarb. I also received funding and support from Creative Destruction Lab, the Strategic Innovation Fund of the Federal Government of Canada, and the RBC Royal Bank's Borealis AI Foundation.
+This data collection project was a part of my doctoral dissertation research and was tremendously supported by guidance from my advisors <a href="https://www.agrawal.ca/">Ajay Agrawal</a>, Joshua Gans, and <a href="https://www.avigoldfarb.com/">Avi Goldfarb</a>. I also received funding and support from Creative Destruction Lab, the Strategic Innovation Fund of the Federal Government of Canada, and the RBC Royal Bank's Borealis AI Foundation.
 
 ---
 
@@ -145,6 +142,6 @@ This data collection project was a part of my doctoral dissertation research and
 
 ![Academic Research in AI](/images/ai-research-trend.jpg)
 
-Ajay Agrawal and I collected data on a decade of conference proceedings of major AI conferences to understand how the state of the labor market for AI scientists and the distribution of scientific productivity has changed since the 2012 ImageNet Competition.
+<a href="https://www.agrawal.ca/">Ajay Agrawal</a> and I collected data on a decade of conference proceedings of major AI conferences to understand how the state of the labor market for AI scientists and the distribution of scientific productivity has changed since the 2012 ImageNet Competition.
 
-Findings from these data were presented to world leaders from government, industry, and the scientific community at the 2015 Future of Life Institute conference. For an overview on this conference see [this Washington Post article](https://www.washingtonpost.com/).
+Findings from these data were presented to world leaders from government, industry, and the scientific community at the 2015 <a href="https://futureoflife.org/newsletter/2015-a-year-in-review/">Future of Life Institute conference</a>. For an overview on this conference see <a href="http://www.washingtonpost.com/sf/national/2015/12/27/aianxiety/">this Washington Post article</a>.
