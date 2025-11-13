@@ -130,9 +130,11 @@
   width: 100%;
 }
 
-.research-project:first-of-type {
-  border-top: none;
-  padding-top: 0;
+.page-content h1 + .research-project,
+.page-content hr + .research-project,
+.page-content h1 + hr + .research-project {
+  border-top: none !important;
+  padding-top: 0 !important;
 }
 
 .research-images {
