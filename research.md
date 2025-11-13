@@ -34,7 +34,7 @@ layout: page
 
     <p>w/ Kevin Bryan and Mitchell Hoffman</p>
 
-    <p><strong>Files:</strong> <a href="/papers/sorting/bryan_hoffman_sariri_sorting_main.pdf">Main Paper</a> | <a href="/papers/sorting/bryan_hoffman_sariri_sorting_appendix.pdf">Appendices</a> | <a href="/papers/sorting/bryan_hoffman_sariri_sorting_rctscreenshots.pdf">RCT Screenshots</a> | <a href="https://www.amirsariri.com/s/Supplemental-Material.pdf">Supplemental Material</a> | <a href="https://www.socialscienceregistry.org/trials/4242">AEA RCT Registry</a></p>
+    <p><strong>Files:</strong> <a href="/papers/sorting/bryan_hoffman_sariri_sorting_main.pdf">Main Paper</a> | <a href="/papers/sorting/bryan_hoffman_sariri_sorting_appendix.pdf">Appendices</a> | <a href="/papers/sorting/bryan_hoffman_sariri_sorting_rctscreenshots.pdf">RCT Screenshots</a> | <a href="https://www.socialscienceregistry.org/trials/4242">AEA RCT Registry</a></p>
 
     <p><em>American Economic Journal (2025)</em></p>
 
