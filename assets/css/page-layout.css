@@ -130,9 +130,9 @@
   width: 100%;
 }
 
-.page-content h1 + .research-project,
-.page-content hr + .research-project,
-.page-content h1 + hr + .research-project {
+/* Remove border from first project after section header (accounting for hr between h1 and project) */
+.page-content h1 + hr + .research-project,
+.page-content h1 + .research-project {
   border-top: none !important;
   padding-top: 0 !important;
 }
