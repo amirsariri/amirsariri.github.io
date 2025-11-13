@@ -6,8 +6,8 @@ layout: page
 
 <div class="research-project">
   <div class="research-images">
-    <img src="/images/economics-advice-1.png" alt="Economics of Advice Figure 1">
-    <img src="/images/economics-advice-2.png" alt="Economics of Advice Figure 2">
+    <img src="/assets/images/economics-advice-1.png" alt="Economics of Advice Figure 1">
+    <img src="/assets/images/economics-advice-2.png" alt="Economics of Advice Figure 2">
   </div>
   <div class="research-content">
     <h3>The Economics of Advice: Evidence from Startup Mentoring</h3>
@@ -24,14 +24,14 @@ layout: page
 
 <div class="research-project">
   <div class="research-images">
-    <img src="/images/information-frictions-1.png" alt="Information Frictions Figure">
+    <img src="/assets/images/information-frictions-1.png" alt="Information Frictions Figure">
   </div>
   <div class="research-content">
     <h3>Information Frictions and Employee Sorting Between Startups</h3>
 
     <p>w/ <a href="http://www.kevinbryanecon.com/">Kevin Bryan</a> and <a href="https://sites.google.com/site/mhoffman2">Mitchell Hoffman</a></p>
 
-    <p><strong>Files:</strong> <a href="/papers/sorting/bryan_hoffman_sariri_sorting_main.pdf">Main Paper</a> | <a href="/papers/sorting/bryan_hoffman_sariri_sorting_appendix.pdf">Appendices</a> | <a href="/papers/sorting/bryan_hoffman_sariri_sorting_rctscreenshots.pdf">RCT Screenshots</a> | <a href="https://www.socialscienceregistry.org/trials/4242">AEA RCT Registry</a></p>
+    <p><strong>Files:</strong> <a href="/assets/documents/sorting/bryan_hoffman_sariri_sorting_main.pdf">Main Paper</a> | <a href="/assets/documents/sorting/bryan_hoffman_sariri_sorting_appendix.pdf">Appendices</a> | <a href="/assets/documents/sorting/bryan_hoffman_sariri_sorting_rctscreenshots.pdf">RCT Screenshots</a> | <a href="https://www.socialscienceregistry.org/trials/4242">AEA RCT Registry</a></p>
 
     <p><em>American Economic Journal (forthcoming)</em></p>
 
@@ -46,7 +46,7 @@ layout: page
 
 <div class="research-project">
   <div class="research-images">
-    <img src="/papers/sv/sv-1.png" alt="Allocation of Entrepreneurs">
+    <img src="/assets/documents/sv/sv-1.png" alt="Allocation of Entrepreneurs">
   </div>
   <div class="research-content">
     <h3>Price Theory of Silicon Valley</h3>
@@ -63,9 +63,9 @@ layout: page
 
 <div class="research-project">
   <div class="research-images">
-    <img src="/images/industry-affiliation-1.jpg" alt="Industry Affiliation DiD Figure">
-    <img src="/images/industry-affiliation-2.png" alt="Out in the Open - AI Research">
-    <img src="/images/industry-affiliation-3.png" alt="Deep-learning Research">
+    <img src="/assets/images/industry-affiliation-1.jpg" alt="Industry Affiliation DiD Figure">
+    <img src="/assets/images/industry-affiliation-2.png" alt="Out in the Open - AI Research">
+    <img src="/assets/images/industry-affiliation-3.png" alt="Deep-learning Research">
   </div>
   <div class="research-content">
     <h3>How does Industry Affiliation of Academic Scientists Affect the Rate and Direction of Research?</h3>
@@ -82,7 +82,7 @@ layout: page
 
 <div class="research-project">
   <div class="research-images">
-    <img src="/images/activity-sequencing.png" alt="Activity Sequencing Figure">
+    <img src="/assets/images/activity-sequencing.png" alt="Activity Sequencing Figure">
   </div>
   <div class="research-content">
     <h3>Activity Sequencing in Startups</h3>
@@ -124,7 +124,7 @@ layout: page
 
 w/ Evgenia Gatov, Kyle Robinson, Sonia Sennik, Michael Vertolli, <a href="https://www.avigoldfarb.com/">Avi Goldfarb</a>
 
-![CDL Database](/images/cdl-database.jpg)
+![CDL Database](/assets/images/cdl-database.jpg)
 
 The early stages of startup formation remain one of the least understood aspects of firm development and growth. Decisions made during these formative periods often have irreversible consequences, shaping the trajectory and potential success of new ventures. However, these formative periods are also the most challenging to observe in a systematic way that allows rigorous empirical analysis. In this data collection project, we introduce new data built from Creative Destruction Lab (CDL), a global non-profit mentoring program for early-stage high-technology startups. We believe that the nature of this program and the richness of data we collected from its operations are particularly suited for investigating open questions in the economics and management of advice, entrepreneurial strategy, entrepreneurial finance, and the complex process of technology transfer.
 
@@ -140,7 +140,7 @@ This data collection project was a part of my doctoral dissertation research and
 
 ### The Rate and Direction of Academic Research in Artificial Intelligence
 
-![Academic Research in AI](/images/ai-research-trend.jpg)
+![Academic Research in AI](/assets/images/ai-research-trend.jpg)
 
 <a href="https://www.agrawal.ca/">Ajay Agrawal</a> and I collected data on a decade of conference proceedings of major AI conferences to understand how the state of the labor market for AI scientists and the distribution of scientific productivity has changed since the 2012 ImageNet Competition.
 

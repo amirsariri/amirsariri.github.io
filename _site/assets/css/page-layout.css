@@ -26,7 +26,7 @@
 }
 
 .header-left h1 a {
-  color: #000;
+  color: #0366d6;
   text-decoration: none;
 }
 
@@ -59,19 +59,34 @@
   width: 100%;
 }
 
-.page-content h1 {
+.page-content h1:not(:first-child) {
+  margin-top: 50px !important;
+  margin-bottom: 30px !important;
+  padding-bottom: 15px !important;
+  font-size: 24px !important;
+  border-bottom: 4px solid #003366 !important;
+  color: #222 !important;
+  font-weight: bold !important;
+}
+
+.page-content h1:first-child {
   margin-top: 0;
   margin-bottom: 30px;
   font-size: 32px;
 }
 
-.page-content h2 {
-  margin-top: 50px;
-  margin-bottom: 30px;
-  padding-bottom: 15px;
-  font-size: 24px;
-  border-bottom: 2px solid #e0e0e0;
-  color: #222;
+.page-wrapper .page-content h2 {
+  margin-top: 50px !important;
+  margin-bottom: 30px !important;
+  padding-bottom: 15px !important;
+  font-size: 24px !important;
+  border-bottom: 4px solid #003366 !important;
+  color: #222 !important;
+  font-weight: bold !important;
+}
+
+.page-content hr {
+  display: none !important;
 }
 
 .page-content h3 {
@@ -109,8 +124,17 @@
   display: flex;
   gap: 40px;
   margin-bottom: 60px;
+  padding-top: 40px;
+  border-top: 1px solid #e0e0e0;
   align-items: flex-start;
   width: 100%;
+}
+
+/* Remove border from first project after section header (accounting for hr between h1 and project) */
+.page-content h1 + hr + .research-project,
+.page-content h1 + .research-project {
+  border-top: none !important;
+  padding-top: 0 !important;
 }
 
 .research-images {
@@ -173,5 +197,55 @@
   .research-content {
     flex: 1;
   }
+}
+
+/* Teaching page styles */
+.teaching-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.teaching-course {
+  flex: 1;
+  font-size: 16px;
+  color: #333;
+  margin-right: 20px;
+}
+
+.teaching-years {
+  flex-shrink: 0;
+  font-size: 16px;
+  color: #666;
+  text-align: right;
+  white-space: nowrap;
+}
+
+/* Awards page styles */
+.award-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.award-content {
+  flex: 1;
+  font-size: 16px;
+  color: #333;
+  margin-right: 20px;
+}
+
+.award-year {
+  flex-shrink: 0;
+  font-size: 16px;
+  color: #666;
+  text-align: right;
+  white-space: nowrap;
 }
 

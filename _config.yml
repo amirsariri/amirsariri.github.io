@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Amir Sariri
 description: Assistant Professor of Strategic Management at Purdue University
-logo: profile_pic.jpg
+logo: /assets/profile_pic.jpg
 github_username: amirsariri
 twitter_username: amirsariri
 
