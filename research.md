@@ -28,15 +28,13 @@ layout: page
   <div class="research-images">
     <img src="/images/information-frictions-1.png" alt="Information Frictions Figure 1">
     <img src="/images/information-frictions-2.jpg" alt="Information Frictions Figure 2">
-    <img src="/images/information-frictions-3.png" alt="Information Frictions Figure 3">
-    <img src="/images/information-frictions-4.png" alt="Information Frictions Figure 4">
   </div>
   <div class="research-content">
     <h3>Information Frictions and Employee Sorting Between Startups</h3>
 
     <p>w/ Kevin Bryan and Mitchell Hoffman</p>
 
-    <p><strong>Files:</strong> <a href="https://www.amirsariri.com/s/Sorting_MainPaper.pdf">Main Paper</a> | <a href="https://www.socialscienceregistry.org/trials/4242">AEA RCT Registry</a> | <a href="https://www.amirsariri.com/s/Online-Appendix.pdf">Appendices</a> | <a href="https://www.amirsariri.com/s/RCT-Screenshots.pdf">RCT Screenshots</a> | <a href="https://www.amirsariri.com/s/Supplemental-Material.pdf">Supplemental Material</a></p>
+    <p><strong>Files:</strong> <a href="/papers/sorting/bryan_hoffman_sariri_sorting_main.pdf">Main Paper</a> | <a href="/papers/sorting/bryan_hoffman_sariri_sorting_appendix.pdf">Appendices</a> | <a href="/papers/sorting/bryan_hoffman_sariri_sorting_rctscreenshots.pdf">RCT Screenshots</a> | <a href="https://www.amirsariri.com/s/Supplemental-Material.pdf">Supplemental Material</a> | <a href="https://www.socialscienceregistry.org/trials/4242">AEA RCT Registry</a></p>
 
     <p><em>American Economic Journal (2025)</em></p>
 
