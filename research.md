@@ -26,8 +26,7 @@ layout: page
 
 <div class="research-project">
   <div class="research-images">
-    <img src="/images/information-frictions-1.png" alt="Information Frictions Figure 1">
-    <img src="/images/information-frictions-2.jpg" alt="Information Frictions Figure 2">
+    <img src="/images/information-frictions-1.png" alt="Information Frictions Figure">
   </div>
   <div class="research-content">
     <h3>Information Frictions and Employee Sorting Between Startups</h3>
@@ -46,9 +45,9 @@ layout: page
 
 <div class="research-project">
   <div class="research-images">
-    <img src="/images/industry-affiliation-1.png" alt="Industry Affiliation DiD Figure">
-    <img src="/images/industry-affiliation-2.png" alt="Out in the Open - AI Research">
-    <img src="/images/industry-affiliation-3.png" alt="Deep-learning Research">
+    <img src="/images/industry-affiliation-1.jpg" alt="Industry Affiliation DiD Figure">
+    <img src="/images/industry-affiliation-2.jpg" alt="Out in the Open - AI Research">
+    <img src="/images/industry-affiliation-3.jpg" alt="Deep-learning Research">
   </div>
   <div class="research-content">
     <h3>How does Industry Affiliation of Academic Scientists Affect the Rate and Direction of Research?</h3>
