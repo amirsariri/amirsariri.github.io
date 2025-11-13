@@ -1,0 +1,54 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Responsive profile picture sizing */
+@media (max-width: 768px) {
+  .sidebar {
+    position: static;
+    width: 100%;
+    float: none;
+  }
+
+  header img.logo {
+    max-width: 200px;
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  main {
+    width: 100%;
+  }
+
+  /* Navigation styling on mobile */
+  main h2:first-of-type {
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 769px) {
+  header img.logo {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  /* Ensure main content doesn't overlap with sidebar */
+  main {
+    word-wrap: break-word;
+  }
+}
+
+/* General link styling */
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
