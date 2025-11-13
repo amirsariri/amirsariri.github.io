@@ -8,8 +8,8 @@ layout: page
 
 <div class="research-project">
   <div class="research-images">
-    ![Economics of Advice Figure 1](/images/economics-advice-1.png)
-    ![Economics of Advice Figure 2](/images/economics-advice-2.png)
+    <img src="/images/economics-advice-1.png" alt="Economics of Advice Figure 1">
+    <img src="/images/economics-advice-2.png" alt="Economics of Advice Figure 2">
   </div>
   <div class="research-content">
     <h3>The Economics of Advice: Evidence from Startup Mentoring</h3>
@@ -26,10 +26,10 @@ layout: page
 
 <div class="research-project">
   <div class="research-images">
-    ![Information Frictions Figure 1](/images/information-frictions-1.png)
-    ![Information Frictions Figure 2](/images/information-frictions-2.jpg)
-    ![Information Frictions Figure 3](/images/information-frictions-3.png)
-    ![Information Frictions Figure 4](/images/information-frictions-4.png)
+    <img src="/images/information-frictions-1.png" alt="Information Frictions Figure 1">
+    <img src="/images/information-frictions-2.jpg" alt="Information Frictions Figure 2">
+    <img src="/images/information-frictions-3.png" alt="Information Frictions Figure 3">
+    <img src="/images/information-frictions-4.png" alt="Information Frictions Figure 4">
   </div>
   <div class="research-content">
     <h3>Information Frictions and Employee Sorting Between Startups</h3>
@@ -48,7 +48,7 @@ layout: page
 
 <div class="research-project">
   <div class="research-images">
-    ![Industry Affiliation Figure](/images/industry-affiliation.png)
+    <img src="/images/industry-affiliation.png" alt="Industry Affiliation Figure">
   </div>
   <div class="research-content">
     <h3>How does Industry Affiliation of Academic Scientists Affect the Rate and Direction of Research?</h3>
@@ -65,7 +65,7 @@ layout: page
 
 <div class="research-project">
   <div class="research-images">
-    ![Learning vs. Doing Figure](/images/learning-doing.png)
+    <img src="/images/learning-doing.png" alt="Learning vs. Doing Figure">
   </div>
   <div class="research-content">
     <h3>Learning vs. Doing: The Effect of Business Uncertainty on Entrepreneurial Activities</h3>
