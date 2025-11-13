@@ -1,0 +1,13 @@
+# Auto-generated Jekyll build directory
+_site/
+
+# OS files
+.DS_Store
+
+# Editor/IDE
+*.code-workspace
+.vscode/
+
+# Dependencies
+Gemfile.lock
+
