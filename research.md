@@ -2,9 +2,7 @@
 layout: page
 ---
 
-# Research
-
-## Research Projects
+# Publications
 
 <div class="research-project">
   <div class="research-images">
@@ -43,6 +41,26 @@ layout: page
 
 ---
 
+# Working Papers
+
+
+<div class="research-project">
+  <div class="research-images">
+    <img src="/papers/sv/sv-1.png" alt="Allocation of Entrepreneurs">
+  </div>
+  <div class="research-content">
+    <h3>Price Theory of Silicon Valley</h3>
+
+    <p>w/ John Horton</p>
+
+    <p>(preparing manuscript for resubmission to journal)</p>
+
+    <p><strong>ABSTRACT:</strong> We model an entrepreneurial cluster as three interconnected kinds of markets: the market for venture capital, the labor market for high-skilled individuals, or “engineers,” and the product markets startups hope to serve. Engineers choose to either found a startup as an entrepreneur—pursuing a single business idea and obtaining seed funding from VCs in ex- change for equity—or join an established startup as an employee. The model predicts the equilibrium number of startups formed and their success probability, as well as the wages of engineers, the share of equity retained by founders, the fraction of engineers pursuing entrepreneurship, and the profits of successful startups. The equilibrium is affected by the cost of founding a startup, the extent of product markets, the supply of engineers, and the “supply” of startup ideas. The model predicts the total output of the entrepreneurial system and the social value of the marginal startup..</p>
+  </div>
+</div>
+
+---
+
 <div class="research-project">
   <div class="research-images">
     <img src="/images/industry-affiliation-1.jpg" alt="Industry Affiliation DiD Figure">
@@ -64,41 +82,46 @@ layout: page
 
 <div class="research-project">
   <div class="research-images">
-    <img src="/images/learning-vs-doing.png" alt="Learning vs. Doing Figure">
-  </div>
-  <div class="research-content">
-    <h3>Learning vs. Doing: The Effect of Business Uncertainty on Entrepreneurial Activities</h3>
-
-    <p>(preparing manuscript for conference presentations)</p>
-
-    <p><strong>ABSTRACT:</strong> Over the past decade, public and private startup mentorship programs have proliferated. Yet the empirical investigation of this phenomenon is scant. I examine advice in the context of change in startup activities. Resource-constrained entrepreneurs trade off prioritizing between learning about and evaluating their options versus implementing them. In a setting where mentorship advice regulates this trade-off, I show that, relative to mentors, entrepreneurs under-prioritize simple search and planning activities—a form of entrepreneurial learning that is broadly termed "analysis." Mentors' call for more learning through analysis is precisely at the expense of de-emphasizing the implementation of ideas in the short term. I show that this result is driven by mentors' perceived uncertainty of the startup's quality, where perceived uncertainty is proxied from mentors' expectation error dispersion and sentiment variation.</p>
-  </div>
-</div>
-
----
-
-<div class="research-project">
-  <div class="research-images">
     <img src="/images/activity-sequencing.png" alt="Activity Sequencing Figure">
   </div>
   <div class="research-content">
     <h3>Activity Sequencing in Startups</h3>
 
+    <p>w/ Jorge Guzman</p>
+
     <p>(preparing manuscript for conference presentations)</p>
 
-    <p><strong>ABSTRACT:</strong> In this paper, I investigate the sequence of startup activities over time to understand the mechanisms underlying the prioritization of activities in startups. I develop a novel typology of startup activities using a database of 371 early-stage, science-based startups. I show that entrepreneurs, particularly first-time founders, under-prioritize learning. Using Latent Markov Models I show that the sequence of activities in early-stage startups from learning to implementation of ideas and acquisition of resources increases startups' success in accessing capital.</p>
+    <p><strong>ABSTRACT:</strong> In this paper, we investigate the sequence of startup activities over time to understand the mechanisms underlying the prioritization of activities in startups. We leverage a novel typology of startup activities using a database early-stage, science-based startups. We show that entrepreneurs, particularly first-time founders, under-prioritize learning. Using Latent Markov Models, we show that the sequence of activities in early-stage startups from learning to implementation of ideas and acquisition of resources increases startups' success in accessing capital.</p>
   </div>
 </div>
 
----
-
-## Other Work in Progress
-
-**The Effect of Noisy Learning on Startup Performance** (with Joshua Gans, Erin Scott, Scott Stern) - data collection and empirical analysis
 
 ---
 
-## Database Development
+# Work in Progress
+
+[1] Scientific Decision-Making in Early Firm Formation and Growth, with Ajay Agrawal, Arnaldo Camuffo,
+Alfonso Gambardella, & Jakub Malachowski - data analysis
+
+[2] The Effect of Disagreement on Learning: Evidence from Business Mentoring, with Luca Gius - data
+analysis
+
+[3] The Effect of Noisy Learning on Startup Performance, with Joshua Gans, Erin Scott, & Scott Stern -
+data analysis
+
+---
+
+# Other Work
+
+[1] Sariri, A., Gatov, E., Neal, G., Robinson, K., Sennik, S., Tham, W. Y., Vertolli, M., & Goldfarb, A. (2025, August). Database, methodological tools, and research opportunities: Creative Destruction Lab and early-stage technology ventures (NBER Working Paper No. 34127). National Bureau of Economic Research. <a href="https://doi.org/10.3386/w34127">https://doi.org/10.3386/w34127</a>
+
+[2] Sariri, A. (2020). Activity sequencing in startups. Academy of Management Proceedings, 2020(1), 280. <a href="https://doi.org/10.5465/AMBPP.2020.280">https://doi.org/10.5465/AMBPP.2020.280</a>
+
+[3] Sariri, A. (2019). How industry affiliation of academic scientists affects the rate and direction of research. Academy of Management Proceedings, 2019(1), 19569. <a href="https://doi.org/10.5465/AMBPP.2019.19569abstract">https://doi.org/10.5465/AMBPP.2019.19569abstract</a>
+
+---
+
+# Database Development
 
 ### Database, Methodological Tools, and Research Opportunities: Creative Destruction Lab and Early-Stage Technology Ventures
 
